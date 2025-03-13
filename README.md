@@ -2,6 +2,8 @@
 
 This project showcases a digital portfolio of fashion designs, specifically highlighting the "Fashion Week 2024" collection from Select Fashion.
 
+**View the live site:** [Fashion Week 2024 Portfolio](https://webwithsufi.github.io/fasion-week-2024/)
+
 ## Table of Contents
 
 * [Project Description](#project-description)
